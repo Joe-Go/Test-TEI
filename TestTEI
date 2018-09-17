@@ -1,0 +1,11 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#">
+	<text>
+		<body>
+			<div>
+				<head>Test</head>
+				<p>Replace with your text</p><p>ceci est un test﻿ : <persName annotationId="ent_345" ref="http://dbpedia.org/resource/Fran%C3%A7ois_Rabelais" cert="definite" type="real">François Rabelais</persName></p>
+			</div>
+		</body>
+	</text>
+</TEI>
+
